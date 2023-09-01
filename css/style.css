@@ -10,7 +10,7 @@
 
 
 .navbar{
-    background-image: url(img/Rectangle 106.png);
+    background-image: url(/img/Rectangle\ 106.png);
     display: flex; 
 }
 .brand{
@@ -62,7 +62,7 @@
     padding-left: 1%;
 }
 .billboard{
-    background-image: url(img/Slide\ 16_9\ -\ 1.png);
+    background-image: url(/img/Slide\ 16_9\ -\ 1.png);
     height: 800px;
 }
 .board{
@@ -100,7 +100,7 @@
     padding-top: 8%;
 }
 .abo{
-    background-image: url(img/ABOUT.png);
+    background-image: url(/img/ABOUT.png);
     margin: 8%  0;
 }
 .about{
